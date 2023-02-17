@@ -1,1 +1,1 @@
-location.href="https://hzcshqk.request.dreamhack.games/1"
+location.href="https://pwbiyqm.request.dreamhack.games/1"
